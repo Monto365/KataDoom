@@ -1,6 +1,7 @@
 from unittest import result
 import random
 
+
 class Game:
     def __init__(self):
         self._level = Level()
